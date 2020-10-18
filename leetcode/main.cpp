@@ -1,3 +1,12 @@
+/* This is a simple program to create a Trie from a bunch of strings.
+ * The user can then provide the some substring to check for all the 
+ * autocompletions possible 
+ * 
+ * Author: Kumar Kunal
+ * /
+
+
+
 #include <vector>
 #include <string>
 #include <iostream>
